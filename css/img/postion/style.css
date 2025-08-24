@@ -1,0 +1,33 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(orange,white,green);
+}
+
+.box{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+#box2{
+    position: relative;
+    left: 168px;
+    top: -34px;
+}
+
+#box3{
+    position: relative;
+    left: 168px;
+    top: 112px;
+}
+
+#box4{
+    position: relative;
+    top: 79px;
+}
+
+#box5{
+position: relative;
+left: 85px;
+bottom: 48px;
+}

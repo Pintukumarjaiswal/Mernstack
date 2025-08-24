@@ -1,0 +1,21 @@
+.container{
+    height: 200px;
+    /* width: 200px; */
+    border: 2px solid black;
+    /* display: inline-block; */
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: row; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; */
+/* flex: wrap; */
+    justify-content: center;
+
+
+
+}
+
+.box{
+    border: 1px solid black;  
+    background-color: aqua;  
+}
